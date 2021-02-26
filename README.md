@@ -10,9 +10,9 @@ Download Reddit/ Twitter saved posts (the scripts allow account for time_limit a
 Download Vantage_api/ Stocks/Cryptocurrencies and saved them in a pandas **df** format
 View by categories
 
-Download or clone repository
-        *Install Python 3 and run pip[3] install -r requirements.txt
-        *from psaw import PushshiftAPI
+*Download or clone repository
+ *Install Python 3 and run pip[3] install -r requirements.txt
+ *from psaw import PushshiftAPI
        
 Check for folder named "Redditsaved" in Downloads
 
