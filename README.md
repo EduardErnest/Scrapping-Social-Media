@@ -11,8 +11,8 @@ Download Vantage_api/ Stocks/Cryptocurrencies and saved them in a pandas **df** 
 View by categories
 
 Download or clone repository
-        Install Python 3 and run pip[3] install -r requirements.txt
-        from psaw import PushshiftAPI
+        *Install Python 3 and run pip[3] install -r requirements.txt
+        *from psaw import PushshiftAPI
        
 Check for folder named "Redditsaved" in Downloads
 
